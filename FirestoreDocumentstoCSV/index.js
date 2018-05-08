@@ -15,7 +15,7 @@ const parser = new Json2csvParser();
 
 
 var features = new Set();
-var filter = new Set(['*','CDOT-MSRIT', 'Dr.MKN', 'CSE-LAB']);
+var filter = new Set(['CDOT-MSRIT', 'Dr.MKN', 'CSE-LAB']);
 var collection = [];
 var count = 0;
 

@@ -1,22 +1,22 @@
-2018-05-08 21:59:06,451 - [learn/learn] - DEBUG - learning Nearest Neighbors
-2018-05-08 21:59:06,459 - [learn/learn] - DEBUG - learned Nearest Neighbors, -8 ms
-2018-05-08 21:59:06,706 - [learn/learn] - DEBUG - Nearest Neighbors, score: 0.884408602151
-2018-05-08 21:59:06,708 - [learn/learn] - DEBUG - learning Linear SVM
-2018-05-08 21:59:07,526 - [learn/learn] - DEBUG - learned Linear SVM, -817 ms
-2018-05-08 21:59:07,649 - [learn/learn] - DEBUG - Linear SVM, score: 0.842741935484
-2018-05-08 21:59:07,651 - [learn/learn] - DEBUG - learning Decision Tree
-2018-05-08 21:59:07,668 - [learn/learn] - DEBUG - learned Decision Tree, -17 ms
-2018-05-08 21:59:07,670 - [learn/learn] - DEBUG - Decision Tree, score: 0.845430107527
-2018-05-08 21:59:07,671 - [learn/learn] - DEBUG - learning Random Forest
-2018-05-08 21:59:08,354 - [learn/learn] - DEBUG - learned Random Forest, -682 ms
-2018-05-08 21:59:08,397 - [learn/learn] - DEBUG - Random Forest, score: 0.91935483871
-2018-05-08 21:59:08,399 - [learn/learn] - DEBUG - learning Neural Net
-2018-05-08 21:59:09,276 - [learn/learn] - DEBUG - learned Neural Net, -876 ms
-2018-05-08 21:59:09,281 - [learn/learn] - DEBUG - Neural Net, score: 0.813172043011
-2018-05-08 21:59:09,282 - [learn/learn] - DEBUG - learning AdaBoost
-2018-05-08 21:59:09,571 - [learn/learn] - DEBUG - learned AdaBoost, -288 ms
-2018-05-08 21:59:09,605 - [learn/learn] - DEBUG - AdaBoost, score: 0.0927419354839
-2018-05-08 21:59:09,612 - [learn/learn] - DEBUG - learning Naive Bayes
-2018-05-08 21:59:09,618 - [learn/learn] - DEBUG - learned Naive Bayes, -6 ms
-2018-05-08 21:59:09,640 - [learn/learn] - DEBUG - Naive Bayes, score: 0.700268817204
-2018-05-08 21:59:17,959 - [learn/save] - DEBUG - -8309 ms
+2018-05-08 23:06:05,937 - [learn/learn] - DEBUG - learning Nearest Neighbors
+2018-05-08 23:06:05,941 - [learn/learn] - DEBUG - learned Nearest Neighbors, -3 ms
+2018-05-08 23:06:05,986 - [learn/learn] - DEBUG - Nearest Neighbors, score: 0.510752688172
+2018-05-08 23:06:05,988 - [learn/learn] - DEBUG - learning Linear SVM
+2018-05-08 23:06:07,700 - [learn/learn] - DEBUG - learned Linear SVM, -1712 ms
+2018-05-08 23:06:07,768 - [learn/learn] - DEBUG - Linear SVM, score: 0.448924731183
+2018-05-08 23:06:07,770 - [learn/learn] - DEBUG - learning Decision Tree
+2018-05-08 23:06:07,782 - [learn/learn] - DEBUG - learned Decision Tree, -12 ms
+2018-05-08 23:06:07,784 - [learn/learn] - DEBUG - Decision Tree, score: 0.509408602151
+2018-05-08 23:06:07,799 - [learn/learn] - DEBUG - learning Random Forest
+2018-05-08 23:06:08,633 - [learn/learn] - DEBUG - learned Random Forest, -834 ms
+2018-05-08 23:06:08,702 - [learn/learn] - DEBUG - Random Forest, score: 0.637096774194
+2018-05-08 23:06:08,704 - [learn/learn] - DEBUG - learning Neural Net
+2018-05-08 23:06:10,076 - [learn/learn] - DEBUG - learned Neural Net, -1372 ms
+2018-05-08 23:06:10,080 - [learn/learn] - DEBUG - Neural Net, score: 0.47311827957
+2018-05-08 23:06:10,082 - [learn/learn] - DEBUG - learning AdaBoost
+2018-05-08 23:06:10,388 - [learn/learn] - DEBUG - learned AdaBoost, -306 ms
+2018-05-08 23:06:10,440 - [learn/learn] - DEBUG - AdaBoost, score: 0.143817204301
+2018-05-08 23:06:10,443 - [learn/learn] - DEBUG - learning Naive Bayes
+2018-05-08 23:06:10,447 - [learn/learn] - DEBUG - learned Naive Bayes, -4 ms
+2018-05-08 23:06:10,451 - [learn/learn] - DEBUG - Naive Bayes, score: 0.298387096774
+2018-05-08 23:06:24,657 - [learn/save] - DEBUG - -14191 ms
