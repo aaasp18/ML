@@ -1,0 +1,37 @@
+2018-05-08 01:01:17,757 - [learn/learn] - DEBUG - learning Nearest Neighbors
+2018-05-08 01:01:18,093 - [learn/learn] - DEBUG - learned Nearest Neighbors, 335 ms
+2018-05-08 01:02:17,858 - [learn/learn] - DEBUG - Nearest Neighbors, score: 0.6270516717325227
+
+2018-05-08 01:02:17,858 - [learn/learn] - DEBUG - learning Linear SVM
+2018-05-08 01:09:38,923 - [learn/learn] - DEBUG - learned Linear SVM, 441064 ms
+2018-05-08 01:12:30,818 - [learn/learn] - DEBUG - Linear SVM, score: 0.6776595744680851
+
+2018-05-08 01:12:30,818 - [learn/learn] - DEBUG - learning RBF SVM
+2018-05-08 01:35:27,242 - [learn/learn] - DEBUG - learned RBF SVM, 1376423 ms
+2018-05-08 01:38:31,048 - [learn/learn] - DEBUG - RBF SVM, score: 0.01778115501519757
+
+2018-05-08 01:38:31,048 - [learn/learn] - DEBUG - learning Decision Tree
+2018-05-08 01:38:31,453 - [learn/learn] - DEBUG - learned Decision Tree, 404 ms
+2018-05-08 01:38:31,478 - [learn/learn] - DEBUG - Decision Tree, score: 0.05805471124620061
+
+2018-05-08 01:38:31,478 - [learn/learn] - DEBUG - learning Random Forest
+2018-05-08 01:38:31,537 - [learn/learn] - DEBUG - learned Random Forest, 59 ms
+2018-05-08 01:38:31,804 - [learn/learn] - DEBUG - Random Forest, score: 0.09741641337386019
+
+2018-05-08 01:38:31,804 - [learn/learn] - DEBUG - learning Neural Net
+2018-05-08 01:39:12,726 - [learn/learn] - DEBUG - learned Neural Net, 40922 ms
+2018-05-08 01:39:12,906 - [learn/learn] - DEBUG - Neural Net, score: 0.6398176291793313
+
+2018-05-08 01:39:12,906 - [learn/learn] - DEBUG - learning AdaBoost
+2018-05-08 01:39:37,535 - [learn/learn] - DEBUG - learned AdaBoost, 24629 ms
+2018-05-08 01:39:45,052 - [learn/learn] - DEBUG - AdaBoost, score: 0.009574468085106383
+
+2018-05-08 01:39:45,052 - [learn/learn] - DEBUG - learning Naive Bayes
+2018-05-08 01:39:45,301 - [learn/learn] - DEBUG - learned Naive Bayes, 248 ms
+2018-05-08 01:39:55,681 - [learn/learn] - DEBUG - Naive Bayes, score: 0.5241641337386018
+
+2018-05-08 01:39:55,681 - [learn/learn] - DEBUG - learning QDA
+2018-05-08 01:39:56,521 - [learn/learn] - DEBUG - learned QDA, 840 ms
+2018-05-08 01:40:06,244 - [learn/learn] - DEBUG - QDA, score: 0.0004559270516717325
+
+2018-05-08 01:40:31,535 - [learn/save] - DEBUG - 25290 ms
